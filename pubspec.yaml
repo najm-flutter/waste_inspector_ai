@@ -42,6 +42,7 @@ dependencies:
   uicons: ^1.0.1
   url_launcher: ^6.2.6
   camera: ^0.10.5+9
+  image_picker: ^1.0.8
   
 
 dev_dependencies:
