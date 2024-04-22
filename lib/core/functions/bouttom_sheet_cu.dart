@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:waste_inspector_ai/core/constant/app_images.dart';
+import 'package:waste_inspector_ai/core/constant/app_colors.dart';
 import 'package:waste_inspector_ai/core/constant/app_strings.dart';
 
 bouttomSheetCu(void Function()? onTapCamera, void Function()? onTapGellery) {
