@@ -5,6 +5,7 @@ import 'package:waste_inspector_ai/view/screens/home_page.dart';
 
 void main() {
   runApp(const MyApp());
+  print("object") ;
 }
 
 class MyApp extends StatelessWidget {
